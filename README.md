@@ -1,5 +1,5 @@
 
-# Hi there, I'm Nucleon2 👋
+# Hi there, I'm Ahmad 👋
 
 I'm a high school student (Grade 12) passionate about web development. I love building cool websites and experimenting with the latest in frontend and backend technologies.
 
