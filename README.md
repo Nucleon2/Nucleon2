@@ -6,7 +6,7 @@ I'm a high school student (Grade 12) passionate about web development. I love bu
 ## 🚀 Tech Stack
 
 - **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Node.js
+- **Backend:** Node.js, Express
 
 ## 🌟 Featured Project
 
