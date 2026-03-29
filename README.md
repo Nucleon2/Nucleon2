@@ -105,8 +105,13 @@ Users ask car-related questions and receive model-specific answers, DIY repair g
 
 <div align="center">
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nucleon2&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nucleon2&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nucleon2&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nucleon2&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nucleon2&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nucleon2&theme=github_dark&utcOffset=4" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Nucleon2&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -114,7 +119,8 @@ Users ask car-related questions and receive model-specific answers, DIY repair g
 
 ## What I'm Working On
 
-- Developing **Proofed** — a crypto risk analysis platform with immersive 3D UI (React.js, Three.js, GSAP)
+- Building **SkyFlip** — a free Hypixel SkyBlock economy tool (Next.js 14, Supabase, Redis)
+- Developing **Proofd** — a crypto risk analysis platform with immersive 3D UI (Next.js, Three.js, GSAP)
 - Exploring mechatronics and simulation-to-deployment pipelines for interactive physical installations
 
 ---
