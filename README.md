@@ -12,9 +12,9 @@
 
 ---
 
-I'm a self-taught full-stack developer and AI engineer based in Abu Dhabi, building production-grade applications across web, AI, and blockchain domains. I'm passionate about solving real problems with technology — from agentic AI systems to ML-powered security tools and 3D data visualization.
+I'm a self-taught full-stack developer and AI engineer based in Abu Dhabi, building production-grade applications across web, AI, and blockchain domains. I'm passionate about solving real problems with technology, from agentic AI systems to ML-powered security tools and 3D data visualization.
 
-Currently pursuing mechatronics engineering, with 948+ contributions in the past year and 29+ public and private repositories spanning a range of domains.
+948+ contributions in the past year and 29+ public and private repositories spanning a range of domains.
 
 ---
 
