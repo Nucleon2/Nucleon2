@@ -92,14 +92,6 @@ Trains an XGBoost classifier on behavioral features derived from transaction his
 
 ---
 
-### AutoGuru — AI Car Assistant
-> Full-stack web app providing expert car advice through conversational AI.
-
-Users ask car-related questions and receive model-specific answers, DIY repair guidance, and maintenance planning — powered by an LLM backend.
-
-**Stack:** React · Vite · Tailwind CSS · Express · DeepSeek API
-
----
 
 ## GitHub Stats
 
@@ -119,7 +111,7 @@ Users ask car-related questions and receive model-specific answers, DIY repair g
 
 ## What I'm Working On
 
-- Developing **Proofd** — a crypto risk analysis platform with immersive 3D UI (Next.js, Three.js, GSAP)
+- Developing Proofed.dev — a crypto risk analysis platform with immersive 3D UI (Next.js, Three.js, GSAP)
 - Exploring mechatronics and simulation-to-deployment pipelines for interactive physical installations
 
 ---
