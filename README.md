@@ -119,7 +119,6 @@ Users ask car-related questions and receive model-specific answers, DIY repair g
 
 ## What I'm Working On
 
-- Building **SkyFlip** — a free Hypixel SkyBlock economy tool (Next.js 14, Supabase, Redis)
 - Developing **Proofd** — a crypto risk analysis platform with immersive 3D UI (Next.js, Three.js, GSAP)
 - Exploring mechatronics and simulation-to-deployment pipelines for interactive physical installations
 
