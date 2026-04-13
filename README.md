@@ -111,7 +111,7 @@ Trains an XGBoost classifier on behavioral features derived from transaction his
 
 ## What I'm Working On
 
-- Developing Proofed.dev — a crypto risk analysis platform with immersive 3D UI (Next.js, Three.js, GSAP)
+- Developing Proofed.dev — a crypto risk analysis platform
 - Exploring mechatronics and simulation-to-deployment pipelines for interactive physical installations
 
 ---
