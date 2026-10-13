@@ -2,7 +2,7 @@
 
 # Ahmad Khamis
 
-**Full-Stack Developer & AI Engineer** · Abu Dhabi, UAE
+**Full-Stack Developer & AI Engineer** · Oakville, Canada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-khamis-621318260)
 [![GitHub](https://img.shields.io/badge/GitHub-Nucleon2-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nucleon2)
